@@ -7,7 +7,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .parent{
-    margin: 50px auto;
+    
     width:100% ; 
     background-image: url(../images/bg-desktop.svg);
     background-color: #361561eb;
