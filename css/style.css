@@ -9,14 +9,14 @@ body{
 .parent{
     margin: 50px auto;
     width:100% ; 
-    background-image: url("images/bg-desktop.svg");
+    background-image: url("/bg-desktop.svg");
     background-color: #361561eb;
     background-repeat: no-repeat;
 }
 @media (max-width:800px){
     .parent{
         margin: 0;
-        background-image: url("huddle/images/bg-mobile.svg");
+        background-image: url("bg-mobile.svg");
     } 
 }
 header{
